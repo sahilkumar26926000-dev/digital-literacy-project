@@ -1,0 +1,23 @@
+Safe Online Checklist
+* Financial & UPI Safety
+
+* ?PIN is for Sending, Not Receiving: Never enter your UPI PIN while receiving money. Authentic payments to your account do not require you to enter a PIN or scan a QR code.
+* ?Verify Merchant Names: Before hitting 'Pay' on any UPI app, double-check the verified merchant name displayed on the screen to ensure it matches the person or shop you intend to pay.
+* ?Avoid Public Wi-Fi for Banking: Never log into banking apps or make UPI payments while connected to free campus or cafe Wi-Fi. Use your mobile data for all financial transactions.
+
+* ? Account & Device Protection
+
+* ?Enable Two-Factor Authentication (2FA): Activate 2FA on your university email, WhatsApp, and Instagram accounts. This adds a critical layer of security beyond just your password.
+* ?Secure Your Lock Screen: Use a strong biometric or alphanumeric lock. Ensure your notifications are set to "Hide Sensitive Content" so OTPs (One-Time Passwords) aren't visible on a locked screen.
+* ?Audit App Permissions: Regularly check which apps have access to your microphone, camera, and contacts. Delete any "Cleaner" or "Battery Saver" apps that often act as spyware.
+
+* ? Social & Personal Security
+
+* ?Identify Phishing Links: Be wary of messages on WhatsApp or Telegram offering "Free Scholarship Links," "Government Jobs," or "Exclusive Student Discounts" that require you to log in with your social media credentials.
+* ?Manage Digital Footprint: Set your social media profiles to private and be selective about sharing your real-time location or photos of your college ID cards/hall tickets.
+
+* ?How to Report Cybercrime
+
+If you or someone you know falls victim to a digital scam or online harassment, immediate action is vital.
+* ?National Cyber Crime Reporting Portal: Visit [suspicious link removed] to file an official complaint.
+* ?National Helpline Number: Call 1930 immediately to report financial fraud (the "Golden Hour" is critical for freezing fraudulent transactions).
